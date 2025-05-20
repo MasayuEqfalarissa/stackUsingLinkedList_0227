@@ -76,5 +76,9 @@ int main ()
     int choise = 0;
     int value ;
 
+    while (choise != 5)
+    {
+        
+    }
 }
 
