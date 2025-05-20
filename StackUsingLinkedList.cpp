@@ -51,5 +51,13 @@ public :
         {
             cout << "list is Empty" << endl;
         }
+        else
+        {
+            node * current = top;
+            while (current != NULL)
+            {
+                
+            }
+        }
     }
 };
