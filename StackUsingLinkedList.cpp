@@ -69,3 +69,12 @@ public :
     }
 };
 
+int main ()
+{
+    stack stact;
+
+    int choise = 0;
+    int value ;
+
+}
+
